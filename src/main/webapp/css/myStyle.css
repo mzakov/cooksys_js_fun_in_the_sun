@@ -1,0 +1,90 @@
+#container {
+    display: -webkit-flex;
+    display: flex;
+    width: 98vw;
+    height: 87vh;
+ 
+}
+
+#field1 {
+	display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center
+    -webkit-flex: 1;
+    flex: 1;
+    height: 100;
+	font-size: 40px;
+
+
+}
+#field2 {
+	display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center
+    -webkit-flex: 1;
+    flex: 1;
+    height: 100;
+	font-size: 40px;
+
+
+}
+#field3 {
+	display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center
+    -webkit-flex: 1;
+    flex: 1;
+    height: 100;
+	font-size: 40px;
+
+
+}
+#footer {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: center;
+    justify-content: center
+    align-self: flex-end;
+    width: 98vw;
+    height: 10vh;
+	font-size: 40px;
+}
+#button1 {
+	-webkit-flex: 1;
+    flex: 1;
+    height: 100;
+    width: 24%;
+	font-size: 40px;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+#button2 {
+	-webkit-flex: 1;
+    flex: 1;
+    height: 100;
+    width: 24%;
+	font-size: 40px;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+#button3 {
+	-webkit-flex: 1;
+    flex: 1;
+    height: 100;
+    width: 24%;
+	font-size: 40px;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+#reset {
+	-webkit-flex: 1;
+    flex: 1;
+    height: 100;
+    width: 24%;
+	font-size: 40px;
+	border-radius: 25px;
+	opacity: 0.8;
+}
